@@ -10,7 +10,7 @@
 Follow instructions for your plugin manager of you choice and then type `:UpdateRemotePlugins`
 
 ### vim-plug
-Plug `:UpdateRemotePlugins`
+Plug 'lorentzlasson/md2html-vim'
 
 ## Todo
 * Handle life cycle of .html file

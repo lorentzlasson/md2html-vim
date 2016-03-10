@@ -6,6 +6,12 @@
 * node.js
 * [evilstreak/markdown-js](https://github.com/evilstreak/markdown-js/blob/master/README.md) (global installation)
 
+## Installation
+Follow instructions for your plugin manager of you choice and then type `:UpdateRemotePlugins`
+
+### vim-plug
+Plug 'lorentzlasson/md2html-vim'
+
 ## Todo
 * Handle life cycle of .html file
 * Allow toggling of .html generation

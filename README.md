@@ -7,7 +7,7 @@
 * [evilstreak/markdown-js](https://github.com/evilstreak/markdown-js/blob/master/README.md) (global installation)
 
 ## Installation
-Follow instructions for your plugin manager of you choice and then type `:UpdateRemotePlugins`
+Follow instructions plugin manager of your choice and then type `:UpdateRemotePlugins`
 
 ### vim-plug
 Plug 'lorentzlasson/md2html-vim'
